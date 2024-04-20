@@ -6,7 +6,7 @@ Database Management System is a software where we can manage and maintain data
 To communicate with database we can language which is SQL 
 Structured Query Language is a programming langauge which is introduced by IBM 
 firstly it is called SeQueL(Structured english Query Language) later it has called as SQL
-SQL is no case sensitive 
+SQL is non case sensitive 
 There are 2 types of databases.They are OLTP & OLAP 
 OLTP - It is day to  day transaction 
 OLAP - It leads analytical processing (Large data storing)
